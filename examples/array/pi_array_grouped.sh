@@ -5,6 +5,8 @@
 #SBATCH --output=pi-array-grouped_%a.out
 #SBATCH --array=1-4
 
+ml hpc-examples
+
 # Lets create a new folder for our output files
 mkdir -p json_files
 
