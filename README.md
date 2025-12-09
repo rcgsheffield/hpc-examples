@@ -1,7 +1,7 @@
 # HPC-Examples Repository
 
 ## Overview
-The `hpc-examples` repository provides a collection of curated scripts and workflows for Stanage and Bessemer high-performance computing (HPC) systems. These examples are designed to help users efficiently use SLURM schedulers, manage resources, and run HPC applications.
+The `hpc-examples` repository provides a collection of curated scripts and workflows for the Stanage high-performance computing system. These examples are designed to help users efficiently use SLURM schedulers, manage resources, and run HPC applications.
 
 This repository is public and intended to be used as a resource by HPC administrators, users, and maintainers for setting up and executing various HPC tasks.
 
