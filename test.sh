@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=mpi-lmp-indent
 #SBATCH --mail-user=a.person@sheffield.ac.uk
-#SBATCH --mail-type=FAIL
+#SBATCH --mail-type=ALL
 #SBATCH --time=00:01:00
 #SBATCH --mem=1G
 #SBATCH --ntasks-per-node=4
